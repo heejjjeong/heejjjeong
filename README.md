@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=Csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/></a>   
 <img src="https://img.shields.io/badge/GitHub-6E6E6E?style=flat&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Markdown-222222?style=flat&logo=Markdown&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=VisualStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>   
