@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%40Heejeong&nbsp;Jeon%20%20&fontAlign=66&height=300&fontSize=70)
 
-</div></div></div>
+</div></div>
 
 # :computer: _My Data_
 
@@ -44,7 +44,6 @@
 <a href="https://open.kakao.com/o/szska01c"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/szska01c"/></a>
 
 <br/>
-
 </div>
 
 # :computer: _My Stack_
