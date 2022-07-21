@@ -41,7 +41,7 @@
 <a href="https://heejnt.notion.site/Resume-159944f75f204415869a017c5829af25"><img src="https://img.shields.io/badge/Notion-56B366?style=flat&logo=Notion&logoColor=white&link=https://heejnt.notion.site/Resume-159944f75f204415869a017c5829af25"/></a>   
 <a href="https://www.instagram.com/heejjjjeong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/heejjjjeong"/></a>
 <a href="https://www.facebook.com/profile.php?id=100014063461831"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100014063461831"/></a>
-<a href="https://open.kakao.com/o/szska01c"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/szska01c"/></a>
+<a href="https://open.kakao.com/o/sbO8s8qe"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sbO8s8qe"/></a>
 
 <br/>
 </div>
