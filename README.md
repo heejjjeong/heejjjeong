@@ -9,8 +9,6 @@
 
 <div align="center">
 
-<br/>
-
 ### :mag_right:_Teck Stack_:mag:
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
@@ -26,14 +24,10 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 
-<br/>
-
 ### :pencil2:_Studing_:pencil2:
 
 <img src="https://img.shields.io/badge/UnrealEngine-39477F?style=flat&logo=UnrealEngine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
-
-<br/>
 
 ### :kissing_closed_eyes:_About Me_:kissing_heart:
 
@@ -42,20 +36,18 @@
 <a href="https://www.instagram.com/heejjjjeong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/heejjjjeong"/></a>
 <a href="https://www.facebook.com/profile.php?id=100014063461831"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100014063461831"/></a>
 
-
-<br/>
 </div>
 
 # :computer: _My Stack_
 
 <div align="center">
-<br/><br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heejjjeong&show_icons=true&theme=onedark)](https://github.com/{heejjjeong}/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejjjeong&layout=compact&theme=onedark)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=heednee)](https://solved.ac/heednee)
 
-<br/>
 </div>
 
 
@@ -67,7 +59,7 @@
 <a href="https://open.kakao.com/o/sbO8s8qe"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sbO8s8qe"/></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejjjeong&layout=compact&theme=onedark)
+
 
 Here are some ideas to get you started:
 
