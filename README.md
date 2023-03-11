@@ -6,8 +6,6 @@
 </div>
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejjjeong&layout=compact&theme=onedark)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=heednee)](https://solved.ac/heednee)
 
